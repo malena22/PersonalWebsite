@@ -1,0 +1,154 @@
+body {
+  margin: 0;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+  color: #40514E;
+}
+
+h1 {
+margin: 50px auto 0 auto;
+font-size: 5.625rem;
+font-family: 'Sacramento', cursive;
+color: #66BFBF;
+}
+
+h2 {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 2.5em;
+  color: #66BFBF;
+}
+
+h3{
+  font-family: 'Montserrat', sans-serif;
+  color: #11999E;
+
+}
+
+a {
+  color: #11999E;
+}
+
+hr {
+border-style: none none dotted none;
+border-width: thick;
+border-color: #EAF6F6;
+width: 3%;
+margin-top: 40px;
+}
+
+p {
+font-family: 'Merriweather', serif;
+font-size: 12px;
+
+}
+
+
+
+.top-container {
+  background-color: #EAF6F6;
+  position: relative;
+  padding-top: 100px;
+}
+
+.top-cloud {
+position: absolute;
+left: 950px;
+top: 50px;
+}
+
+.bottom-cloud {
+position: absolute;
+left: 350px;
+bottom: 300px;
+}
+
+
+.bold {
+  text-decoration: underline;
+}
+
+.skill-row {
+  width: 40%;
+  margin: 100px auto;
+  text-align: left;
+  line-height: 2;
+}
+
+.skill-row-2 {
+  width: 40%;
+  margin: 50px auto;
+  text-align: left;
+  line-height: 2;
+
+}
+
+.decision-making-image {
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+}
+
+.problem-solving-image {
+  width: 25%;
+  float: right;
+  margin-left: 30px;
+}
+
+.profile-img {
+  width: 10%;
+  margin-top: 30px;
+}
+
+.BUTTON_VJD {
+   -webkit-border-radius: 10px;
+   -moz-border-radius: 10px;
+   border-radius: 7px;
+   height: 14px;
+   line-height: 14px;
+   color: #FFFFFF;
+   font-family: 'Montserrat', sans-serif;
+   width: 110px;
+   font-size: 16px;
+   font-weight: 400;
+   padding: 13px;
+   background-color: #66BFBF;
+   text-decoration: none;
+   display: inline-block;
+   cursor: pointer;
+   text-align: center;
+   margin-top: 30px;
+   margin-bottom: 40px;
+}
+
+.BUTTON_VJD:hover {
+   background: #1332E8;
+   -webkit-border-radius: 10px;
+   -moz-border-radius: 10px;
+   border-radius: 7px;
+   text-decoration: none;
+}
+
+.bottom-container {
+background-color: #66BFBF;
+width: 100%;
+padding: 50px 0 20px;
+}
+
+.footer-link {
+  margin-right: 30px;
+  text-decoration: none;
+}
+
+.footer-link:hover {
+  text-decoration: underline;
+  color: #EAF6F6;
+}
+.bottom-sign {
+  color: #EAF6F6;
+  padding-top: 15px;
+  padding-bottom: 5px;
+}
+
+.contact-me {
+  padding: 5px;
+}
